@@ -2,7 +2,7 @@
 - Robie Galang
 - Septembeer 1, 2024
 - PA #2 Submission
-# Documentation
+
 - Firstly, don't forget to import the NumPy library as the problems will require us to code with functions built within the NumPy library.
 - For the first question, I find it fairly simple thanks to the functions that the NumPy provides.
 - Setting up the equation was very easy thanks to the np.mean() and np.std() as I was able to directly get the mean and standard deviation of the array with these function.
